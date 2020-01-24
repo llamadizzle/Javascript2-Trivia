@@ -1,0 +1,29 @@
+body {
+    font-family: 'Schoolbell', sans-serif;  
+    font-size: 40px;      
+    color: #FFFF00;
+    
+  }
+
+  h1 {
+    font-size: 75px;
+    font-family: 'Schoolbell', sans-serif;
+    text-align: center;
+  }
+
+  button {
+    font-family: 'Schoolbell', sans-serif;
+    font-weight:bold;		
+    font-size: 20px;		
+    background-color: #FFFF00;
+    padding: 3%;
+    border: 5px solid;
+    border-radius: 15%;
+  }
+
+  #triviaGame {
+    background-color: #696969;
+    padding:3%;
+    border-radius: 2%;
+    border:1px solid #fff;
+  }
